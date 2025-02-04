@@ -39,5 +39,3 @@ console.log(typeof true);
 console.log(Boolean(0));
 console.log(Boolean("a"));
 console.log(Boolean(1));
-
-
