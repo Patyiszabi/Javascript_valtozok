@@ -56,9 +56,3 @@ const gyumolcs = { fa: 'alma', fajta: 'Starking', szin: 'piros' };
 console.log('fajta' in gyumolcs); //true
 console.log(gyumolcs instanceof  Object); //false
 
-function myFunction(){
-    let valtozo = 5;
-    return "valtozo";
-}
-console.log(myFunction())
-console.log(valtozo)
